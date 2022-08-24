@@ -1,6 +1,6 @@
 # This is a multiplayer web game
 
-The frontend is based on React components
+The frontend is based on React components https://my-code-names.herokuapp.com/
 
 Technologies:
 
