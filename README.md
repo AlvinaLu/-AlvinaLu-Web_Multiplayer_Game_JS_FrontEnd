@@ -8,7 +8,6 @@ Technologies:
 * WebSockets
 * Java
 * Spring Boot
-* PostgreSQL
 
 Backend https://github.com/AlvinaLu/Web_Multiplayer_Game_Java_Backend
 
